@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP Z84C4206PEG
+D 6 MHZ Z80 CMOS SIO/2 , Z84C4206PEG Zilog Z84C4206PEG, 8bit Z8 Microcontroller, 6MHz ROMLess, 40-Pin PDIP
+K
+F http://www.zilog.com/docs/z80/ps0183.pdf
+$ENDCMP
+#
+#End Doc Library
