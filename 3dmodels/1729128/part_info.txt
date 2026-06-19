@@ -1,0 +1,9 @@
+Manufacturer=Phoenix Contact
+PartNumber=1729128
+PartCategory=Connector
+PackageCategory=Other
+PinCount=2
+Version=8.1
+Released=2016-04-28 13:13:01
+Downloaded=2026-05-28 19:22:00
+3D=Y
